@@ -6,7 +6,7 @@ function App() {
       <div className="container">
         <div className="leftSide">
           <img src="public\logo.png" alt="Your Company Logo" />
-          <div className="name">H</div>
+          <div className="name">Hay there !!</div>
         </div>
 
         <div className="rightSide">
