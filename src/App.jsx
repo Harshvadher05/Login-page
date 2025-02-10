@@ -1,11 +1,12 @@
 import "./App.css";
+import logo from "./assets/logo.png"
 
 function App() {
   return (
     <>
       <div className="container">
         <div className="leftSide">
-          <img src="public\logo.png" alt="Your Company Logo" />
+          <img src={logo} alt="Your Company Logo" />
           <div className="name">Hay there !!</div>
         </div>
 
